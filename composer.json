@@ -1,6 +1,6 @@
 {
     "name": "triopsi/banned-tool",
-    "description": "Bann Tool plugin for CakePHP. A quick way to ban IP addresses.",
+    "description": "Ban tool plugin for CakePHP. A quick way to ban IP addresses.",
     "type": "cakephp-plugin",
     "license": "MIT",
     "require": {
