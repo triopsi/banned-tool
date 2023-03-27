@@ -2,7 +2,7 @@
 A quick way to ban IP addresses. It`s a plugin for CakePHP 4.x.
 
 <p align="center">
-    <img height="300" src="banned-tool.png.png">
+    <img height="300" src="banned-tool.png">
 </p>
 
 ## Installation
