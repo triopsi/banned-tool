@@ -64,7 +64,7 @@ class BannedToolPlugin extends BasePlugin
     public function middleware(MiddlewareQueue $middlewareQueue): MiddlewareQueue
     {
         // Add your middlewares here
-        $middlewareQueue->insertAt(0, new BannedMiddleware());
+        // $middlewareQueue->insertAt(0, new BannedMiddleware());
         return $middlewareQueue;
     }
 
