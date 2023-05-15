@@ -17,7 +17,7 @@ use Cake\Routing\RouteBuilder;
 /**
  * Plugin for BannedTool
  */
-class BannedToolPlugin extends BasePlugin
+class Plugin extends BasePlugin
 {
     /**
      * Load all the plugin configuration and bootstrap logic.
